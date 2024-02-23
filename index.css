@@ -11,19 +11,35 @@ button {
 
 button:hover {
     background-color: #6417f3;
+    border-radius: 10px;
 }
 
 .tipka1 {
+    position: absolute;
     width: 132px;
     height: 40px;
     font-size: 30px;
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
+    right: 50px;
 }
 
 #box-kopirano {
-    width: 300px;
-    height: 100px;
+    position: absolute;
+    width: 185px;
+    height: 50px;
     background-color: #6b2be2;
+    display: none;
+    color: white;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    border-radius: 5px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    right: 25px;
+    top: 50px;
+    
 }
