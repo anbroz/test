@@ -1,0 +1,29 @@
+body {
+    background-color: #231739;
+}
+
+button {
+    border: none;
+    background-color: #231739;
+    color: white;
+    text-decoration: underline #6b2be2 3px;
+}
+
+button:hover {
+    background-color: #6417f3;
+}
+
+.tipka1 {
+    width: 132px;
+    height: 40px;
+    font-size: 30px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#box-kopirano {
+    width: 300px;
+    height: 100px;
+    background-color: #6b2be2;
+}
